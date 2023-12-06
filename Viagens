@@ -1,0 +1,25 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lugares Turísticos na Europa</title>
+</head>
+<body>
+  <h1>Lugares Turísticos na Europa</h1>
+
+  <h2>Paris, França</h2>
+  <p>Descrição sobre Paris e suas atrações turísticas.</p>
+
+  <h2>Roma, Itália</h2>
+  <p>Descrição sobre Roma e suas atrações turísticas.</p>
+
+  <h2>Barcelona, Espanha</h2>
+  <p>Descrição sobre Barcelona e suas atrações turísticas.</p>
+
+  <!-- Adicione mais lugares turísticos aqui -->
+
+</body>
+</html>
+```
